@@ -18,6 +18,11 @@
 #define kGameAutorotationNone 0
 #define kGameAutorotationCCDirector 1
 #define kGameAutorotationUIViewController 2
+#define WINWIDTH 480
+#define WINHEIGHT 320
+#define BOARDWIDTH 32
+
+
 
 //
 // Define here the type of autorotation that you want for your game

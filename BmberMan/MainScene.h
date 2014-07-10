@@ -11,8 +11,9 @@
 #import "cocos2d.h"
 
 // HelloWorldLayer
-@interface HelloWorldLayer : CCLayer
+@interface MainScene: CCLayer
 {
+    CCSprite *gameinfLayer;
 }
 
 // returns a CCScene that contains the HelloWorldLayer as the only child
